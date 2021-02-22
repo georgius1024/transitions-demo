@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h1>Several useful transitions</h1>
     <transitions/>
   </div>
 </template>
